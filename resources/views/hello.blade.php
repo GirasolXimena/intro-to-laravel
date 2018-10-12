@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello {{$name}}, welcome to my pwproject!</div>
+                <div class="title">Hello {{$name}}, welcome to my project!</div>
             </div>
         </div>
     </body>
