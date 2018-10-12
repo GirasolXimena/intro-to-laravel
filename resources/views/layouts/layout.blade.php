@@ -32,8 +32,8 @@
                         <div class="col-sm-6">
                             <div class="contactinfo">
                                 <ul class="nav nav-pills">
-                                    <li><a href="#"><i class="fa fa-phone"></i> +2 95 01 88 821</a></li>
-                                    <li><a href="#"><i class="fa fa-envelope"></i> info@domain.com</a></li>
+                                    <li><a href="#"><i class="fa fa-phone"></i> +1 (763) 501-9532</a></li>
+                                    <li><a href="#"><i class="fa fa-envelope"></i> sergio.andrade.developer@gmail.com</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -181,7 +181,7 @@
                         <div class="col-sm-3">
                             <div class="address">
                                 <img src="{{asset('images/home/map.png')}}" alt="" />
-                                <p>505 S Atlantic Ave Virginia Beach, VA(Virginia)</p>
+                                <p>730 Mercer Street, St. Paul MN(Minnesota)</p>
                             </div>
                         </div>
                     </div>
